@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "764895796376",
+    "project_id": "mbank-5ab81"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764895796376:android:bc5ad59d84f2f918",
+        "android_client_info": {
+          "package_name": "com.example.bcz.mbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kQ7jbOgxdLp2WgZ1oo4rzIijf53LN7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
